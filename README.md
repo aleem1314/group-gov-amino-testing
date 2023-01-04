@@ -21,7 +21,7 @@ In the project directory, you can run:
 
 ### `buf generate proto`
 
-## Setup local regen node
+## Testing Amino messages
 
 * start local regen node with `testnet` as chain-id and `uregen` as denom.
 * enable rest api and allow cors in `app.toml` file.
