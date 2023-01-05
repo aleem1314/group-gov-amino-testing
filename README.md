@@ -26,3 +26,4 @@ In the project directory, you can run:
 * start local regen node with `testnet` as chain-id and `uregen` as denom.
 * enable rest api and allow cors in `app.toml` file.
 * create a new account in keplr wallet and send few tokens to keplr account.
+* create one governance proposal so that we can test `deposit` and `vote` transactions. 
